@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\spong\.android\build-cache\bcc96e049deb500b3a8ca2385de071520028b78a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\spong\Documents\Book_search\BookSearch-master\BookSearch-master\app\build\intermediates\pre-dexed\debug\classes_bd3d47a89e0c51a37dc398b08533755d755f82d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\spong\.gradle\caches\modules-2\files-2.1\org.parceler\parceler-api\1.1.6\2a06b6b1ecf5dadee8a874dfb51ad018fde3e6c5\parceler-api-1.1.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2a06b6b1ecf5dadee8a874dfb51ad018fde3e6c5">
+        <dex dex="C:\Users\spong\Documents\Book_search\BookSearch-master\BookSearch-master\app\build\intermediates\pre-dexed\debug\parceler-api-1.1.6_4ce64c951a3fb2e403ab3c918757b97eb22b74c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\spong\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.8.0\9bada650e1afe9c6174ddc0d113c1fce4dc26fe0\glide-3.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9bada650e1afe9c6174ddc0d113c1fce4dc26fe0">
+        <dex dex="C:\Users\spong\Documents\Book_search\BookSearch-master\BookSearch-master\app\build\intermediates\pre-dexed\debug\glide-3.8.0_a5a5ef00b91e389d8dc2b427381637ccd16f8c79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\spong\.android\build-cache\a589ee3de303f7998a557bd157b387f920e46b78\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\spong\Documents\Book_search\BookSearch-master\BookSearch-master\app\build\intermediates\pre-dexed\debug\classes_6239aceb967ebd454e214c6d17f76cc98cb87f9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\spong\.android\build-cache\aac63619c7980aeac7cf1a60f8bae6fecb47dea2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\spong\Documents\Book_search\BookSearch-master\BookSearch-master\app\build\intermediates\pre-dexed\debug\classes_6b5f8231edafe2474c81f930589fb3866dd347d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\spong\.gradle\caches\modules-2\files-2.1\com.loopj.android\android-async-http\1.4.9\386a4339ffe52d5d63e80f9bed8d2b1d1a418249\android-async-http-1.4.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="C:\Users\spong\Documents\Book_search\BookSearch-master\BookSearch-master\app\build\intermediates\pre-dexed\debug\android-async-http-1.4.9_4dd3b1035638403d76eb3019b8f3a2bb591bf099.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\spong\.android\build-cache\f66ff043f35e35fc67636c2ea0b9c627b20b051f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\spong\Documents\Book_search\BookSearch-master\BookSearch-master\app\build\intermediates\pre-dexed\debug\classes_db2679764313a462927abe93f2b7584b9bbeff99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\spong\.android\build-cache\d2874910e6064f73c98e3d61618296aaad61baf2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\spong\Documents\Book_search\BookSearch-master\BookSearch-master\app\build\intermediates\pre-dexed\debug\classes_9683f5629c40c6bd9e6018b7cd53d183e004c634.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\spong\.android\build-cache\5efadf42e1f7b0cfbf2bbe080585cac6c40980ef\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\spong\Documents\Book_search\BookSearch-master\BookSearch-master\app\build\intermediates\pre-dexed\debug\classes_bba599e109c7da318fdaf9c638444ee1466bf090.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\spong\.android\build-cache\88647985c67349258b64ccf33396eb0398727a01\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\spong\Documents\Book_search\BookSearch-master\BookSearch-master\app\build\intermediates\pre-dexed\debug\classes_0e0ea817f2b81848dae99824a032226e6e6398eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\spong\.android\build-cache\b4d566c757f0e618c6246ae0f2adcc4676e849c1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\spong\Documents\Book_search\BookSearch-master\BookSearch-master\app\build\intermediates\pre-dexed\debug\classes_479e03da8ab4ecd75475baa351c39a672cbbfb38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\spong\.android\build-cache\58e6a8c782e2d39a022506d095631d774031dd05\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\spong\Documents\Book_search\BookSearch-master\BookSearch-master\app\build\intermediates\pre-dexed\debug\classes_d155c177770329cdc61725f8dedb623b44347717.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\spong\.android\build-cache\06b735ced3f4abe6edda0e93d0d9c82b743ddeb3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\spong\Documents\Book_search\BookSearch-master\BookSearch-master\app\build\intermediates\pre-dexed\debug\classes_660620e6731db86a92fd7d3eb38a7ad61032a442.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\spong\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\spong\Documents\Book_search\BookSearch-master\BookSearch-master\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_e4668bfe0fbb1cc00510fd39c4b6210ddacc4bb1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\spong\.gradle\caches\modules-2\files-2.1\cz.msebera.android\httpclient\4.3.6\526a9f794eab830eae4f23a62c572878b3f491ab\httpclient-4.3.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="C:\Users\spong\Documents\Book_search\BookSearch-master\BookSearch-master\app\build\intermediates\pre-dexed\debug\httpclient-4.3.6_78a1cc803fb2e9a7ee1bc15f15df93eb2bb2ffa2.jar" />
+    </item>
+
+</items>
